@@ -162,6 +162,8 @@ _Painel principal onde o mentor gerencia suas atividades._
 
 ## 📫 Como Contribuir
 
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+
 1.  Faça um **Fork** do projeto.
 2.  Crie uma nova branch para sua Feature (`git checkout -b feature/AmazingFeature`).
 3.  Faça o **Commit** de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
